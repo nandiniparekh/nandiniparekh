@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nandini Parekh
-- ✨ I'm a second year student at university of alberta software engineering 
-- 🦄 I am seeking summer 2022 internships
-- 🌚 I currently work as a residence assistant at UofA
+- ✨ I'm a thrid year student at university of alberta software engineering 
+- 🦄 I am seeking winter 2023 internships
