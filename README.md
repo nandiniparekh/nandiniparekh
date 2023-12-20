@@ -1,3 +1,3 @@
 	👋 Hi, I’m Nandini Parekh
-	✨ I'm a thrid year student at university of alberta software engineering 
-	🦄 I am seeking winter and summer 2023 internships
+	✨ I'm a fourth year student at university of alberta software engineering 
+	🦄 I am seeking summer anf fall 2024 internships
