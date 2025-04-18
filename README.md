@@ -1,6 +1,6 @@
 # Hi, I'm Nandini 👋
 
-Welcome to my GitHub profile! I'm a final-year **Computer Engineering (Software)** student at the **University of Alberta** and an aspiring **Solutions Architect**. I specialize in **full-stack development** and **AI/ML**. I am passionate about building accessible and scalable software that drives meaningful change, especially in healthcare.
+Welcome to my GitHub profile! I'm a recent new grad with a degree in **Computer Engineering (Software)** from the **University of Alberta** and an aspiring **Solutions Architect**. I specialize in **full-stack development** and **AI/ML**. I am passionate about building accessible and scalable software that drives meaningful change, especially in healthcare.
 
 ## 🚀 Technologies & Tools
 
